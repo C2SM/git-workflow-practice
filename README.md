@@ -1,3 +1,3 @@
 # git-workflow-practice
 
-Test
+This is the README for practicing a Git workflow
